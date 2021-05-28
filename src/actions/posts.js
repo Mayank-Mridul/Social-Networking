@@ -1,4 +1,4 @@
-import { APIUrls } from '../helpers/url';
+import { APIUrls } from '../helpers/urls';
 import { UPDATE_POSTS } from './actionTypes';
 
 export function fetchPosts() {
